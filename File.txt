@@ -2,6 +2,8 @@ Welcome to GIT
 
 hello
 
+GIT training session
+
 After First Commit
 
 After Second Commit
